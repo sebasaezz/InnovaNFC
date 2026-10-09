@@ -1,0 +1,8 @@
+<host-apdu-service xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/card_description"
+    android:requireDeviceUnlock="false"
+    android:requireDeviceScreenOn="false">
+    <aid-group android:category="other" android:description="@string/aid_description">
+        <aid-filter android:name="F0494E4E4F564101" />
+    </aid-group>
+</host-apdu-service>

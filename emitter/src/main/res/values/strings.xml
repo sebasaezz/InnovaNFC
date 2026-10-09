@@ -1,0 +1,4 @@
+<resources>
+    <string name="card_description">InnovaNFC person ID</string>
+    <string name="aid_description">InnovaNFC offline identity</string>
+</resources>
